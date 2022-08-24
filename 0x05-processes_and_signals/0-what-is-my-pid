@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#current pid
+# This program will give you its own pid
 
 echo $$
