@@ -19,4 +19,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/Gzoref)
+* **Edwin Kihara** - [harrtedwin](https://github.com/harrtedwin)
